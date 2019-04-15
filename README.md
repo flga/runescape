@@ -14,4 +14,3 @@ You can have multiple clients at once, just pass a name as the first arg.
 runescape.sh #runs the default client
 runescape.sh myalt #creates a new client for myalt (if it does not exist)
 ```
-asd
